@@ -1,4 +1,4 @@
-# 
+# 高级 AI leaf disease detection system 模板。集成 实时处理 和 AI伦理，性能最大化。
 
 
 
